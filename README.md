@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5359230&assignment_repo_type=AssignmentRepo)
 # Exercise 6.7 Height Order
 
 A `Person` class is included in the exercise template. A person has a name and a height. In this exercise, we'll implement a `Room` class, which can be used to add people and order them according to their height -- taking a person out of the room always returns the shortest person.
